@@ -7,7 +7,7 @@
 
 {
 	"name": "Aeroo Reports - Sample",
-	"version": "1.0",
+	"version": "17.0",
 	'summary': 'Just a demo report',
 	"description" : "Report sample for Aeroo Reports (report_aeroo) module",
 	"author": "Alistek",
